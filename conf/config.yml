@@ -1,0 +1,5 @@
+webdriver:
+  phantomjs:
+    macos: 
+      path: 'webdriver/phantomjs_macos'
+      port: '8080'
