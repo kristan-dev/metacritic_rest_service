@@ -7,3 +7,7 @@ env
 webdriver/
 
 src/__pycache__/
+
+__pycache__/
+
+front-end/node_modules/

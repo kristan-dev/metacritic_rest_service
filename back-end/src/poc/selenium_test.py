@@ -20,6 +20,9 @@ class Selenium_Test:
 
 
 if(__name__ ==  "__main__"):
-  start = Selenium_Test()
-  start.phantomjs_test()
+  # start = Selenium_Test()
+  # start.phantomjs_test()
+  d = {123: 456}
+  d = {[123]: 'test'}
+  d = {(123): 'test'}
   pass
